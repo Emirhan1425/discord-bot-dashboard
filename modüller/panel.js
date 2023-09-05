@@ -21,9 +21,9 @@ const db = require('quick.db');
 module.exports = (client) => {
   
   const bilgiler = {
-    oauthSecret: "vBZnwpizI1EagY3Rxowd9s84IXFFQvoH",
-    callbackURL: `https://dash.vortexbot.org/callback`,
-    domain: `https://dash.vortexbot.org/`
+    oauthSecret: "97cb_AB-2pdQTIEBmz7nf83nQRU4waBU",
+    callbackURL: `https://dash.emirsibot.org/callback`,
+    domain: `https://dash.emirsibot.org/`
   };
   
   console.log('BAŞARILI')
