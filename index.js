@@ -2583,4 +2583,4 @@ Token girip site işlemlerinizi hallettikten sonra bot & sitesi açılacaktır.
 Unutmayın vortex sıradan bir bot değildir VIP bot olan vortexi sizlere armağan ediyorum
 Bu iyliğimi unutmayın hata olursa Cod are daha detaylı zor hata olursa Yusuf K Dev.#3004 ulaşınız  
 Botu kuramadıysanız kimseye ücret vermeyin kurulumunu cod are yapar.*/
-client.login("Token");
+client.login("MTE0ODQxOTQzNTU4NjE0MjM0OA.GHnM6M.t1usOzEleTCZAt-eyW25do0tW4rnoME0yPSi9I");
